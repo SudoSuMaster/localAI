@@ -24,7 +24,7 @@ Links to models:
 4. After you run the last command it will start a terminal prompt
 >![image](https://github.com/SudoSuMaster/localAI/assets/75373825/20da8f1a-f937-41d0-a6e8-8b6969a6cde6)
 
-6. If you want to use the webgui you need to install docker desktop and run the docker command
+6. If you want to use the webgui you need to install docker desktop and run the docker command in cmd
 - https://www.docker.com/products/docker-desktop/
 - docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
 >![image](https://github.com/SudoSuMaster/localAI/assets/75373825/b6269ccf-190a-4833-92c2-69796e605765)
