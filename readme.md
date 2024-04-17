@@ -31,7 +31,7 @@ Links to models:
 - You can go to the webgui page by clicking on de port numbers 300:8080
 >![image](https://github.com/SudoSuMaster/localAI/assets/75373825/8c13d794-a6af-4e6e-a4fd-49318de88386)
 - Signup (This is fully local)
-![image](https://github.com/SudoSuMaster/localAI/assets/75373825/cd182c42-802a-4a92-bdb8-cdedd9091e7a)
+>![image](https://github.com/SudoSuMaster/localAI/assets/75373825/cd182c42-802a-4a92-bdb8-cdedd9091e7a)
 
 
 7. Before you make a prompt, you need to select the model you want to use.
