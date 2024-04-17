@@ -2,7 +2,7 @@ A guide on how to run ai models local on your laptop
 
 
 (Docker setup)
-- Do this only if you know how docker compose work, for beginners use the normal desktop setup.
+- Do this only if you know how docker works, for beginners use the normal desktop setup.
 - Read the readme before composing the docker file
 >https://github.com/SudoSuMaster/docker-compose-files/tree/main/ollama-ai
 
