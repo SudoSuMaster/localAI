@@ -1,3 +1,9 @@
+(Docker setup)
+- Do this only if you know howw docker compose work, for beginners use the normal desktop setup.
+- Compose this file
+>https://github.com/SudoSuMaster/docker-compose-files/tree/main/ollama-ai
+
+(Normal desktop setup)
 1. Download Ollama client
 - https://ollama.com/download
 >![image](https://github.com/SudoSuMaster/localAI/assets/75373825/60778203-4b32-45aa-96d5-8494d20647d4)
