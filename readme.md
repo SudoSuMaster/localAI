@@ -9,6 +9,9 @@
 - ollama run (Model name)
 - Example: ollama run llama2-uncensored
 >![image](https://github.com/SudoSuMaster/localAI/assets/75373825/c056ac1a-b483-4894-b6e0-b8f5a01d8186)
+Links to models:
+- https://ollama.com/library
+- [-](https://huggingface.co/models)
 
 4. After you run the last command it will start a terminal prompt
 >![image](https://github.com/SudoSuMaster/localAI/assets/75373825/20da8f1a-f937-41d0-a6e8-8b6969a6cde6)
