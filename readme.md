@@ -1,5 +1,5 @@
 (Docker setup)
-- Do this only if you know howw docker compose work, for beginners use the normal desktop setup.
+- Do this only if you know how docker compose work, for beginners use the normal desktop setup.
 - Read the readme before compose the docker file
 >https://github.com/SudoSuMaster/docker-compose-files/tree/main/ollama-ai
 
