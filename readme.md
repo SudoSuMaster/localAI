@@ -24,3 +24,8 @@ Links to models:
 >![image](https://github.com/SudoSuMaster/localAI/assets/75373825/8c13d794-a6af-4e6e-a4fd-49318de88386)
 - Signup (This is fully local)
 ![image](https://github.com/SudoSuMaster/localAI/assets/75373825/cd182c42-802a-4a92-bdb8-cdedd9091e7a)
+
+
+7. Before you make prompt you need to select the model you want to use.
+![image](https://github.com/SudoSuMaster/localAI/assets/75373825/dc1b8226-1079-4954-a5f9-4a7f82e93150)
+
