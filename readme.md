@@ -11,17 +11,14 @@
 >![image](https://github.com/SudoSuMaster/localAI/assets/75373825/c056ac1a-b483-4894-b6e0-b8f5a01d8186)
 
 4. After you run the last command it will start a terminal prompt
--
-![image](https://github.com/SudoSuMaster/localAI/assets/75373825/20da8f1a-f937-41d0-a6e8-8b6969a6cde6)
+>![image](https://github.com/SudoSuMaster/localAI/assets/75373825/20da8f1a-f937-41d0-a6e8-8b6969a6cde6)
 
 6. If you want to use the webgui you need to install docker desktop and run the docker command
 - https://www.docker.com/products/docker-desktop/
 - docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
-- 
-![image](https://github.com/SudoSuMaster/localAI/assets/75373825/b6269ccf-190a-4833-92c2-69796e605765)
+>![image](https://github.com/SudoSuMaster/localAI/assets/75373825/b6269ccf-190a-4833-92c2-69796e605765)
 - You can go to the webgui page by clicking on de port numbers
-- 
-![image](https://github.com/SudoSuMaster/localAI/assets/75373825/8c13d794-a6af-4e6e-a4fd-49318de88386)
+>![image](https://github.com/SudoSuMaster/localAI/assets/75373825/8c13d794-a6af-4e6e-a4fd-49318de88386)
 
 
 6.
