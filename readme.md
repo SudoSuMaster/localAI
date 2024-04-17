@@ -1,5 +1,6 @@
 1. Download Ollama client
 - https://ollama.com/download
+- 
 ![image](https://github.com/SudoSuMaster/localAI/assets/75373825/60778203-4b32-45aa-96d5-8494d20647d4)
 
 2. open cmd ollama run llama2 
